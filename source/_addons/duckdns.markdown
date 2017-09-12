@@ -24,3 +24,8 @@ Configuration variables:
 - **token** (*Required*): Your Duck DNS API key.
 - **domains** (*Required*): A list of domains to update DNS.
 - **seconds** (*Optional*): Seconds between updates to Duck DNS.
+
+Behind a router:  
+
+ - Configure port 8123 on te router. 
+ - In the browser: my-first-account.duckdns.org**:8123**
